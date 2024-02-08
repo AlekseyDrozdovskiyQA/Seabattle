@@ -1,2 +1,2 @@
-# SeaBattle
+# SeaBattle d
 Морской бой на JS
